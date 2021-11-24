@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samjoco142.
 - 👀 I’m interested in ...coding.
 - 🌱 I’m currently learning ...window desktop Application.
-- 💞️ I’m looking to collaborate on ...win Apps
+- 💞️ I’m looking to collaborate on ..desktop Application
 - 📫 How to reach me .on..Tel..(09035073737) and E-mail (enouch142@gmail.com)
 
 <!---
